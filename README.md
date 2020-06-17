@@ -1,7 +1,9 @@
 # CalculateGrades.Java
 
 A Simple program for calculating student grades.
-a program that asks the user to enter a list consisting of N of student names and 5 degrees for each student. I have to do the following operations by showing the following list:
+a program that asks the user to enter a list consisting of N of student names and 5 degrees for each student. 
+
+It should perform the following operations by showing the following list:
 
 1. Entering the names of students (During this step, the names of the students are entered through the keyboard and the grades are monitored for each student randomly between 1 to 100).
 
